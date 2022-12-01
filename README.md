@@ -90,5 +90,5 @@
 </div>
 
 <div align="center">
-  <img src="./animation.gif"/>
+  <img height="180em" src="./animation.gif"/>
 </div>
