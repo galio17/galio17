@@ -1,13 +1,13 @@
 <h1>Olá, sou Giuseppe Dias</h1>
 <h2>Você chegou ao meu perfil, seja muito bem vindo</h2>
 
-<br/>
+<br />
 
-<div>
+<div align="center">
   <picture>
     <source 
       height="180em"
-      srcset="https://github-readme-stats.vercel.app/api?username=galio17&show_icons=true&theme=synthwave&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=galio17&show_icons=true&theme=synthwave&count_private=true&bg_color=0a0116"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -20,7 +20,7 @@
   <picture>
     <source 
       height="180em"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=galio17&show_icons=true&theme=synthwave&count_private=true&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=galio17&show_icons=true&theme=synthwave&count_private=true&layout=compact&bg_color=0a0116"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -32,13 +32,11 @@
   </picture>
 </div>
 
-<img align="right" src="./animation.gif"/>
-
-<br/>
+<br />
 
 <h2>Skills</h2>
 
-<div align="left">
+<div align="center">
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=101010" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=101010" />
@@ -49,7 +47,7 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=101010" />
   </div>
   
-  <br/>
+  <br />
   
   <h3>Front End</h3>
   <div>
@@ -63,7 +61,7 @@
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=101010" />
   </div>
 
-  <br/>
+  <br />
 
   <h3>Back End</h3>
   <div>
@@ -78,17 +76,19 @@
   </div>
 </div>
 
-<!--
-**galio17/galio17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<h2>Contatos</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="mailto:giuseppe.dias17@gmail.com?">
+    <img src="https://img.icons8.com/fluency/48/null/gmail.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/giuseppe-dias/">
+    <img src="https://img.icons8.com/color/48/null/linkedin.png" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="./animation.gif"/>
+</div>
