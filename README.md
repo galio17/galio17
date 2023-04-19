@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=next.js&labelColor=101010" alt="badge Next JS" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=101010" alt="badge Tailwind CSS" />
     <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&labelColor=101010" alt="badge Styled Components" />
-    <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&labelColor=101010" alt="badge Swiper" />
+    <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&labelColor=101010&logoColor=6332F6" alt="badge Swiper" />
     <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&labelColor=101010" alt="badge Material UI" />
     <img src="https://img.shields.io/badge/Radix_UI-101010?style=for-the-badge&logo=radix-ui&labelColor=101010" alt="badge Radix UI" />
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=101010" alt="badge React Hook Form" />
